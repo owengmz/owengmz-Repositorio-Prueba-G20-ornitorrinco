@@ -6,7 +6,7 @@ package g20;
 
 /**
  *
- * @author Federico Galan, Heber Gomez
+ * @author Federico Galan, Heber Gomez uto
  */
 public class OrniAzul extends Castor {
 
