@@ -1,4 +1,4 @@
-package grupo20_git.ornitorrincos;
+package g20;
 
 import java.util.Scanner;
 
