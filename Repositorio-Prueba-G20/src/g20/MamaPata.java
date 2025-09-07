@@ -6,7 +6,7 @@ package g20;
 
 /**
  *
- * @author Heber Gomez
+ * @author Heber Gomez el homo mas homo
  */
 public interface MamaPata {
 
